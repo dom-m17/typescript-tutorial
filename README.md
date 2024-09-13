@@ -116,10 +116,7 @@ TypeScript is a **superset of JavaScript** that adds static typing, making it ea
 
 ---
 
-
 TypeScript helps improve code quality, maintainability, and developer productivity, all while being easy to adopt. In the next sections, we’ll explore how to set up and use TypeScript in your project.
-
-
 
 ---
 
@@ -197,10 +194,6 @@ You’ve successfully set up TypeScript and compiled your first `.ts` file! Now,
 
 ---
 
-Certainly! Below are the instructions for your users to convert the `users.js` file to TypeScript, make it compliant with TypeScript standards, and run it:
-
----
-
 ## Converting `users.js` to TypeScript
 
 There is a users.js file prepared for you, it’s time to convert it into TypeScript and make sure it’s compliant with TypeScript standards. 
@@ -247,21 +240,3 @@ Now that your TypeScript code is running successfully, try experimenting with th
 	•	Modify the code and see how TypeScript’s type-checking helps catch errors before you even run the program.
 
 By following these steps, you’ll learn how to apply TypeScript types to existing JavaScript code and run it successfully! Feel free to explore different type annotations and see how they improve your code quality.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
-This section gives a clear, quick introduction to basic types in TypeScript, setting up a strong foundation for more advanced concepts like interfaces and functions.
